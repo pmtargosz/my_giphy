@@ -13264,7 +13264,7 @@ function _asyncToGenerator(fn) { return function () { var self = this, args = ar
               case 0:
                 _context4.prev = 0;
                 _context4.next = 3;
-                return navigator.serviceWorker.register('/sw.js');
+                return navigator.serviceWorker.register('./sw.js');
 
               case 3:
                 _context4.next = 8;
